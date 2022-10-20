@@ -1,1 +1,1 @@
-export * as Sorts from "./src/Strings/mod.ts";
+export * as Strings from "./src/Strings/mod.ts";
